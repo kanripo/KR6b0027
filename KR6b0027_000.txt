@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 睒子經
+#+DATE: 2015-08-30 19:34:10.179492
+#+PROPERTY: JUAN 0
