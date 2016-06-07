@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:10.598555
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:54
 #+TITLE: 睒子經
 #+PROPERTY: CBETA_ID T03n0175a
 #+PROPERTY: ID KR6b0027
@@ -14,7 +14,7 @@
 No. 175¶
 佛說睒子經¶
 ¶
-西秦沙門聖堅奉　詔譯¶
+西晉沙門聖堅奉　詔譯¶
 
 聞如是：
 
